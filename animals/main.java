@@ -1,5 +1,5 @@
 package animals;
-public class main {
+public class Main {
 
     public static String sound;
     public static String breathe;
