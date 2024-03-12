@@ -1,5 +1,6 @@
 package animals;
-public class Main {
+
+public class main {
 
     public static String sound;
     public static String breathe;
@@ -14,10 +15,8 @@ public class Main {
         dog.setLegs(4);
         System.out.println(dog.getLegs());
 
-
-
         dog.move();
-        
+
     }
 
 }
