@@ -29,7 +29,7 @@ public abstract class Shape {
     // example of method overloading, 2 different methods for area calculating where
     // 1 is for rectangles and the other is for circles
     public double calculateArea(double length, double width) {
-        return length + width;
+        return length * width;
     }
 
     public double calculateArea(double length) {
