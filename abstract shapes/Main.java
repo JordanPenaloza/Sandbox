@@ -17,8 +17,12 @@ public class Main {
         Circle circle = new Circle(circleDiameter, pi);
         circle.setLength(3);
         circleDiameter = circle.getLength();
+
+        // here we calculate the area using both the overrided and overloaded methods to
+        // show how both can be used to achieve the same result
         System.out.println("The area of the circle is " + circle.calculateArea(circleDiameter));
         System.out.println("The area of the circle is " + circle.calculateArea(circleDiameter, pi));
+
         circle.getDescription();
 
     }

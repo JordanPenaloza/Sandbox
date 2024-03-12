@@ -1,3 +1,4 @@
+//example of abstraction where the shape class is a blue print for any shape class you create, all shapes will inherit these methods
 public abstract class Shape {
     protected double length = 0;
     protected double width = 0;
@@ -25,6 +26,8 @@ public abstract class Shape {
         return width;
     }
 
+    // example of method overloading, 2 different methods for area calculating where
+    // 1 is for rectangles and the other is for circles
     public double calculateArea(double length, double width) {
         return length + width;
     }
