@@ -6,7 +6,7 @@ public class Circle extends Shape {
 
     @Override
     public void getDescription() {
-        System.out.println("This is a shape");
+        System.out.println("This is a circle");
     }
 
     // example of method overriding where we override the calculateArea method and
