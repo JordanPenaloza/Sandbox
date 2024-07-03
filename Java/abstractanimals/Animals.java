@@ -1,4 +1,4 @@
-package abstractanimals;
+package Java.abstractanimals;
 
 abstract class Animals {
     private int legs;

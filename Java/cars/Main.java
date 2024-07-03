@@ -1,4 +1,4 @@
-package cars;
+package Java.cars;
 
 
 public class Main {

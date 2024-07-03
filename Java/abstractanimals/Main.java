@@ -1,4 +1,4 @@
-package abstractanimals;
+package Java.abstractanimals;
 
 public class Main {
 

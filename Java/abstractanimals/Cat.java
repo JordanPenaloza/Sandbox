@@ -1,4 +1,4 @@
-package abstractanimals;
+package Java.abstractanimals;
 
 class Cat extends Animals {
 

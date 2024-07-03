@@ -1,4 +1,4 @@
-package shapes;
+package Java.shapes;
 
 public class Square implements shapes{
 

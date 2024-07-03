@@ -1,4 +1,4 @@
-package animals;
+package Java.animals;
 public abstract class Animal {
 
     protected String sound;

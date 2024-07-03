@@ -1,4 +1,4 @@
-package people;
+package Java.people;
 
 public class DoctorAssistant extends Doctor {
 

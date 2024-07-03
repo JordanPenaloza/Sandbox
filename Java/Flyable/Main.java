@@ -1,4 +1,4 @@
-package Flyable;
+package Java.Flyable;
 
 public class Main {
 

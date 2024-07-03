@@ -1,4 +1,4 @@
-package animals;
+package Java.animals;
 
 public class Dog extends Animal implements MoveableCreatures {
 
